@@ -12,5 +12,3 @@
   320Kbps m4a/mp3 Format :fire:<br></p>
   
   -------
-  <h3 align="center">Download</h3>
-    <a href="https://github.com/ngoyal813/Project---Song-Chimp/blob/main/Song%20Chimp.apk" rel ="APK"></a>
